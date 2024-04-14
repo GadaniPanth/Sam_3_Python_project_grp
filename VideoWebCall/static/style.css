@@ -31,5 +31,5 @@ body {
 
         /* Hide any content that overflows the viewport */
         body {
-            overflow: hidden;
+            overflow-x: hidden;
         }
